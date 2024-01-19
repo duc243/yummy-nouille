@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+#first, .nav-bar {
+    padding: 25px;
+    display: flex;
+}
+.nav-bar{
+    list-style: none;
+    justify-content: space-between;
+    padding: 20px;
+}
